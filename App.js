@@ -5,7 +5,6 @@ import {WebView} from 'react-native-webview';
 export default function App() {
 
     const onMessage = (data) => {
-        alert(data.nativeEvent.data);
     }
 
     return (
