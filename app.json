@@ -2,7 +2,7 @@
   "expo": {
     "name": "WildWood",
     "slug": "ww-app",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -20,7 +20,7 @@
       "supportsTablet": true
     },
     "android": {
-      "versionCode": 2,
+      "versionCode": 3,
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
@@ -36,7 +36,8 @@
         "CALENDAR",
         "REMINDERS",
         "SYSTEM_BRIGHTNESS",
-        "MOTION"
+        "MOTION",
+        "READ_PHONE_STATE",
       ]
     },
     "web": {
