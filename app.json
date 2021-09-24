@@ -37,11 +37,12 @@
         "REMINDERS",
         "SYSTEM_BRIGHTNESS",
         "MOTION",
-        "READ_PHONE_STATE",
+        "READ_PHONE_STATE"
       ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
