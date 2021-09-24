@@ -9,7 +9,7 @@ export default function App() {
 
     return (
         <>
-            <WebView source={{uri: 'https://wiildwood.online/events'}}
+            <WebView source={{uri: 'https://wiildwood.online/events'}}ё
                      geolocationEnabled={true}
                      onMessage={onMessage}
                      javaScriptEnabled={true}
