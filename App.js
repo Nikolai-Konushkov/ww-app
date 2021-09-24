@@ -14,6 +14,7 @@ export default function App() {
                      onMessage={onMessage}
                      javaScriptEnabled={true}
                      domStorageEnabled={true}
+                     userAgent={"Chrome/56.0.0.0 Mobile"}
             />
         </>
     );
